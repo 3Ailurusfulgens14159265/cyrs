@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/res"/>
+    <qresource prefix="/">
+        <file>img/Vigenère_square.svg.png</file>
+    </qresource>
+</RCC>
